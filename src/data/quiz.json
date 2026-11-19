@@ -1,0 +1,593 @@
+{
+  "title": "Ngân hàng câu hỏi trắc nghiệm Lịch sử Đảng Cộng sản Việt Nam (1930 – Nay)",
+  "total_questions": 40,
+  "periods": [
+    {
+      "id": "1930-1945",
+      "name": "Giai đoạn 1: 1930 – 1945",
+      "description": "Sự ra đời của Đảng và lãnh đạo giành chính quyền"
+    },
+    {
+      "id": "1945-1954",
+      "name": "Giai đoạn 2: 1945 – 1954",
+      "description": "Bảo vệ chính quyền và kháng chiến chống thực dân Pháp"
+    },
+    {
+      "id": "1954-1975",
+      "name": "Giai đoạn 3: 1954 – 1975",
+      "description": "Xây dựng CNXH ở miền Bắc và kháng chiến chống Mỹ, cứu nước"
+    },
+    {
+      "id": "1975-1986",
+      "name": "Giai đoạn 4: 1975 – 1986",
+      "description": "Cả nước quá độ lên CNXH và quá trình tìm tòi Đổi mới"
+    },
+    {
+      "id": "1986-nay",
+      "name": "Giai đoạn 5: 1986 – Nay",
+      "description": "Đổi mới, Công nghiệp hóa – Hiện đại hóa và Hội nhập quốc tế"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Thực dân Pháp nổ súng xâm lược Việt Nam vào thời điểm nào và sự kiện nào đánh dấu Việt Nam chính thức trở thành nước thuộc địa nửa phong kiến?",
+      "options": {
+        "A": "Ngày 1/9/1858 và Hiệp ước Patơnốt (1884)",
+        "B": "Ngày 1/9/1858 và phong trào Cần Vương (1885)",
+        "C": "Năm 1884 và cuộc khai thác thuộc địa lần thứ nhất (1897)",
+        "D": "Năm 1897 và Hiệp ước Patơnốt (1884)"
+      },
+      "correct_answer": "A",
+      "explanation": "Ngày 1/9/1858, thực dân Pháp nổ súng xâm lược Việt Nam; đến Hiệp ước Patơnốt (1884), Việt Nam chính thức trở thành nước thuộc địa nửa phong kiến."
+    },
+    {
+      "id": 2,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Dưới ách thống trị của thực dân Pháp, mâu thuẫn nào trở thành mâu thuẫn chủ yếu nhất và gay gắt nhất trong xã hội Việt Nam?",
+      "options": {
+        "A": "Mâu thuẫn giữa giai cấp công nhân với giai cấp tư sản dân tộc",
+        "B": "Mâu thuẫn giữa toàn thể dân tộc Việt Nam với thực dân Pháp và phong kiến phản động",
+        "C": "Mâu thuẫn giữa giai cấp nông dân với tiểu tư sản và trí thức",
+        "D": "Mâu thuẫn giữa các tổ chức yêu nước theo xu hướng bạo động và cải cách"
+      },
+      "correct_answer": "B",
+      "explanation": "Hai cuộc khai thác thuộc địa làm xã hội phân hóa sâu sắc, đưa mâu thuẫn giữa toàn thể dân tộc Việt Nam với thực dân Pháp và phong kiến phản động trở thành mâu thuẫn chủ yếu và gay gắt nhất."
+    },
+    {
+      "id": 3,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Phong trào yêu nước nào trước khi có Đảng đại diện cho xu hướng cải cách do Phan Châu Trinh khởi xướng?",
+      "options": {
+        "A": "Phong trào Đông Du và Việt Nam Quang phục Hội",
+        "B": "Phong trào Cần Vương và khởi nghĩa nông dân Yên Thế",
+        "C": "Phong trào Duy Tân và Đông Kinh Nghĩa Thục",
+        "D": "Tổ chức Việt Nam Quốc dân Đảng và khởi nghĩa Yên Bái"
+      },
+      "correct_answer": "C",
+      "explanation": "Phan Châu Trinh đại diện cho xu hướng cải cách với phong trào Duy Tân và Đông Kinh Nghĩa Thục (trong khi Phan Bội Châu đại diện cho xu hướng bạo động)."
+    },
+    {
+      "id": 4,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Cuốn sách chính trị đầu tiên đặt nền móng lý luận cho cách mạng Việt Nam do Nguyễn Ái Quốc xuất bản năm 1927 có tên là gì?",
+      "options": {
+        "A": "Bản án chế độ thực dân Pháp",
+        "B": "Đường cách mệnh",
+        "C": "Tự chỉ trích",
+        "D": "Người cùng khổ"
+      },
+      "correct_answer": "B",
+      "explanation": "Tác phẩm Đường cách mệnh (1927) là cuốn sách chính trị đầu tiên đặt nền móng lý luận cho cách mạng Việt Nam, khẳng định Đảng muốn vững phải lấy chủ nghĩa Mác – Lênin làm cốt."
+    },
+    {
+      "id": 5,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Tháng 6/1925, Nguyễn Ái Quốc đã thành lập tổ chức nào tại Quảng Châu (Trung Quốc) để chuẩn bị về mặt tổ chức cho sự ra đời của Đảng?",
+      "options": {
+        "A": "Việt Nam Quang phục Hội",
+        "B": "Đông Dương Cộng sản Liên đoàn",
+        "C": "Hội Việt Nam Cách mạng Thanh niên",
+        "D": "Mặt trận Dân chủ Đông Dương"
+      },
+      "correct_answer": "C",
+      "explanation": "Tháng 6/1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu, xuất bản báo Thanh niên, mở lớp huấn luyện cán bộ và phát động phong trào \"Vô sản hóa\" (1928)."
+    },
+    {
+      "id": 6,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Thứ tự thời gian ra đời của ba tổ chức cộng sản tại Việt Nam trong năm 1929 (lần lượt vào tháng 6, tháng 9 và tháng 11) là gì?",
+      "options": {
+        "A": "Đông Dương Cộng sản Đảng → An Nam Cộng sản Đảng → Đông Dương Cộng sản Liên đoàn",
+        "B": "An Nam Cộng sản Đảng → Đông Dương Cộng sản Đảng → Đông Dương Cộng sản Liên đoàn",
+        "C": "Đông Dương Cộng sản Liên đoàn → Đông Dương Cộng sản Đảng → An Nam Cộng sản Đảng",
+        "D": "Đông Dương Cộng sản Đảng → Đông Dương Cộng sản Liên đoàn → An Nam Cộng sản Đảng"
+      },
+      "correct_answer": "D",
+      "explanation": "Năm 1929 lần lượt xuất hiện Đông Dương Cộng sản Đảng (tháng 6/1929 ở Bắc Kỳ), Đông Dương Cộng sản Liên đoàn (tháng 9/1929 từ Tân Việt Cách mạng Đảng) và An Nam Cộng sản Đảng (tháng 11/1929 ở Nam Kỳ)."
+    },
+    {
+      "id": 7,
+      "period_id": "1930-1945",
+      "is_core": true,
+      "question": "Hội nghị thành lập Đảng Cộng sản Việt Nam (6/1 – 7/2/1930) do Nguyễn Ái Quốc chủ trì tại Cửu Long (Hồng Kông) đã thông qua văn kiện quan trọng nào?",
+      "options": {
+        "A": "Luận cương chính trị tháng 10/1930",
+        "B": "Cương lĩnh chính trị đầu tiên (Chánh cương vắn tắt, Sách lược vắn tắt...)",
+        "C": "Chính cương Đảng Lao động Việt Nam",
+        "D": "Chỉ thị \"Nhật – Pháp bắn nhau và hành động của chúng ta\""
+      },
+      "correct_answer": "B",
+      "explanation": "Hội nghị hợp nhất đã thống nhất các tổ chức cộng sản thành Đảng Cộng sản Việt Nam và thông qua Cương lĩnh chính trị đầu tiên do Nguyễn Ái Quốc soạn thảo."
+    },
+    {
+      "id": 8,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Theo Cương lĩnh chính trị đầu tiên của Đảng (2/1930), đâu là lực lượng gốc của cách mạng Việt Nam?",
+      "options": {
+        "A": "Tiểu tư sản và trí thức yêu nước",
+        "B": "Phú nông và tư sản dân tộc",
+        "C": "Giai cấp công nhân và giai cấp nông dân",
+        "D": "Trung tiểu địa chủ và công nhân"
+      },
+      "correct_answer": "C",
+      "explanation": "Cương lĩnh xác định giai cấp công nhân và nông dân là lực lượng gốc; đồng thời đoàn kết rộng rãi tiểu tư sản, trí thức, trung nông và lợi dụng hoặc trung lập phú nông, trung tiểu địa chủ, tư sản dân tộc chưa rõ mặt phản cách mạng."
+    },
+    {
+      "id": 9,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Đỉnh cao của cao trào cách mạng 1930 – 1931 tại Nghệ An và Hà Tĩnh (tháng 9/1930) được đánh dấu bằng sự ra đời của hình thức chính quyền nào?",
+      "options": {
+        "A": "Chính quyền Xô Viết",
+        "B": "Ủy ban Dân tộc giải phóng",
+        "C": "Chính phủ Mặt trận Nhân dân",
+        "D": "Quốc dân Đại hội"
+      },
+      "correct_answer": "A",
+      "explanation": "Khi chính quyền thực dân – phong kiến bị tê liệt ở nhiều vùng nông thôn Nghệ An và Hà Tĩnh, các ban chấp hành nông hội đứng ra quản lý đời sống xã hội theo hình thức chính quyền Xô Viết."
+    },
+    {
+      "id": 10,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Hạn chế chủ yếu của Luận cương chính trị tháng 10/1930 (thông qua tại Hội nghị lần thứ nhất Ban Chấp hành Trung ương) là gì?",
+      "options": {
+        "A": "Chỉ chú trọng đấu tranh nghị trường, bỏ qua bạo lực cách mạng",
+        "B": "Nặng về đấu tranh giai cấp và cách mạng ruộng đất, chưa đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thiếu chiến lược liên minh rộng rãi",
+        "C": "Chưa xác định được vai trò lãnh đạo của giai cấp vô sản",
+        "D": "Tạm gác khẩu hiệu chống đế quốc để tập trung đòi tự do, cơm áo"
+      },
+      "correct_answer": "B",
+      "explanation": "Luận cương chính trị tháng 10/1930 chưa nêu rõ mâu thuẫn chủ yếu của xã hội thuộc địa, nặng về đấu tranh giai cấp và cách mạng ruộng đất, thiếu chiến lược đoàn kết dân tộc rộng rãi."
+    },
+    {
+      "id": 11,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Trong phong trào dân chủ 1936 – 1939, Hội nghị Trung ương tháng 7/1936 (tại Thượng Hải) đã chuyển phương thức hoạt động của Đảng sang hình thức nào?",
+      "options": {
+        "A": "Rút toàn bộ vào hoạt động bí mật, bất hợp pháp",
+        "B": "Chỉ sử dụng đấu tranh vũ trang kết hợp chiến tranh du kích cục bộ",
+        "C": "Kết hợp hoạt động công khai, hợp pháp với bí mật, bất hợp pháp",
+        "D": "Chỉ đấu tranh trên mặt trận báo chí và nghị trường"
+      },
+      "correct_answer": "C",
+      "explanation": "Tận dụng bối cảnh Chính phủ Mặt trận nhân dân lên cầm quyền ở Pháp (1936), Đảng chủ trương chuyển từ bí mật sang kết hợp công khai, hợp pháp với bí mật, bất hợp pháp để đòi tự do, dân chủ, cơm áo, hòa bình."
+    },
+    {
+      "id": 12,
+      "period_id": "1930-1945",
+      "is_core": true,
+      "question": "Tại Hội nghị Trung ương 8 (5/1941) ở Pác Bó (Cao Bằng), Đảng đã đặt nhiệm vụ nào lên hàng đầu và quyết định thành lập mặt trận nào?",
+      "options": {
+        "A": "Đặt cách mạng ruộng đất lên hàng đầu; thành lập Mặt trận Dân chủ Đông Dương",
+        "B": "Đặt nhiệm vụ giải phóng dân tộc lên hàng đầu; thành lập Mặt trận Việt Nam độc lập đồng minh (Mặt trận Việt Minh)",
+        "C": "Đặt nhiệm vụ chống phát xít lên hàng đầu; thành lập Mặt trận nhân dân phản đế",
+        "D": "Đặt nhiệm vụ xây dựng lực lượng vũ trang lên hàng đầu; thành lập Cứu quốc quân"
+      },
+      "correct_answer": "B",
+      "explanation": "Hội nghị Trung ương 8 (5/1941) do Nguyễn Ái Quốc chủ trì đã hoàn chỉnh chủ trương chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Việt Minh (19/5/1941)."
+    },
+    {
+      "id": 13,
+      "period_id": "1930-1945",
+      "is_core": false,
+      "question": "Ngay sau sự kiện phát xít Nhật đảo chính hất cẳng thực dân Pháp (9/3/1945), Ban Thường vụ Trung ương Đảng đã ban hành chỉ thị nào vào ngày 12/3/1945?",
+      "options": {
+        "A": "Chỉ thị \"Toàn dân kháng chiến\"",
+        "B": "Quân lệnh số 1",
+        "C": "Chỉ thị \"Nhật – Pháp bắn nhau và hành động của chúng ta\"",
+        "D": "Chỉ thị thành lập Đội Việt Nam tuyên truyền giải phóng quân"
+      },
+      "correct_answer": "C",
+      "explanation": "Ngày 12/3/1945, Ban Thường vụ Trung ương Đảng ra Chỉ thị \"Nhật – Pháp bắn nhau và hành động của chúng ta\", phát động cao trào kháng Nhật cứu nước, khởi nghĩa từng phần và phong trào \"phá kho thóc, giải quyết nạn đói\"."
+    },
+    {
+      "id": 14,
+      "period_id": "1930-1945",
+      "is_core": true,
+      "question": "Trong Tổng khởi nghĩa Cách mạng Tháng Tám năm 1945, nhân dân thủ đô Hà Nội đã khởi nghĩa giành chính quyền thắng lợi vào ngày nào?",
+      "options": {
+        "A": "Ngày 16/8/1945",
+        "B": "Ngày 19/8/1945",
+        "C": "Ngày 23/8/1945",
+        "D": "Ngày 25/8/1945"
+      },
+      "correct_answer": "B",
+      "explanation": "Sau bốn tỉnh giành chính quyền sớm nhất (Hải Dương, Bắc Giang, Hà Tĩnh, Quảng Nam), Hà Nội khởi nghĩa thắng lợi ngày 19/8/1945 (tiếp theo là Huế ngày 23/8 và Sài Gòn ngày 25/8)."
+    },
+    {
+      "id": 15,
+      "period_id": "1945-1954",
+      "is_core": false,
+      "question": "Hội nghị Ban Thường vụ Trung ương Đảng mở rộng (ngày 18 và 19/12/1946) quyết định phát động toàn dân, toàn quốc kháng chiến chống thực dân Pháp đã diễn ra tại đâu?",
+      "options": {
+        "A": "Tân Trào, Tuyên Quang",
+        "B": "Pác Bó, Cao Bằng",
+        "C": "Vạn Phúc, Hà Đông",
+        "D": "Chiêm Hóa, Tuyên Quang"
+      },
+      "correct_answer": "C",
+      "explanation": "Trước tối hậu thư ngày 18/12/1946 của thực dân Pháp, Hội nghị Ban Thường vụ Trung ương Đảng mở rộng họp tại Vạn Phúc (Hà Đông) ngày 18–19/12/1946 đã quyết định phát động toàn quốc kháng chiến."
+    },
+    {
+      "id": 16,
+      "period_id": "1945-1954",
+      "is_core": true,
+      "question": "Lời kêu gọi Toàn quốc kháng chiến (19/12/1946) của Chủ tịch Hồ Chí Minh đã khẳng định quyết tâm cốt lõi nào của toàn dân tộc?",
+      "options": {
+        "A": "\"Đánh cho Mỹ cút, đánh cho ngụy nhào\"",
+        "B": "\"Thần tốc, táo bạo, bất ngờ, chắc thắng\"",
+        "C": "\"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ\"",
+        "D": "\"Phá kho thóc, giải quyết nạn đói\""
+      },
+      "correct_answer": "C",
+      "explanation": "Ngày 19/12/1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến với lời khẳng định quyết tâm bảo vệ nền độc lập: \"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ\"."
+    },
+    {
+      "id": 17,
+      "period_id": "1945-1954",
+      "is_core": false,
+      "question": "Đường lối kháng chiến chống thực dân Pháp (hình thành và hoàn thiện qua thực tiễn 1945 – 1947) xác định phương châm kháng chiến là gì?",
+      "options": {
+        "A": "Đánh nhanh, thắng nhanh, dựa vào viện trợ bên ngoài",
+        "B": "Toàn dân, toàn diện, lâu dài và dựa vào sức mình là chính",
+        "C": "Đấu tranh chính trị kết hợp nghị trường là chủ yếu",
+        "D": "Khởi nghĩa từng phần tiến lên tổng công kích đô thị"
+      },
+      "correct_answer": "B",
+      "explanation": "Phương châm đường lối kháng chiến chống Pháp là toàn dân, toàn diện, lâu dài và dựa vào sức mình là chính nhằm từng bước thay đổi tương quan lực lượng."
+    },
+    {
+      "id": 18,
+      "period_id": "1945-1954",
+      "is_core": false,
+      "question": "Đại hội đại biểu toàn quốc lần thứ II của Đảng (11 – 19/2/1951) được tổ chức tại địa điểm nào?",
+      "options": {
+        "A": "Ma Cao (Trung Quốc)",
+        "B": "Thủ đô Hà Nội",
+        "C": "Xã Vinh Quang (nay là Kim Bình), huyện Chiêm Hóa, tỉnh Tuyên Quang",
+        "D": "Căn cứ địa Việt Bắc (Cao Bằng)"
+      },
+      "correct_answer": "C",
+      "explanation": "Đại hội II họp từ ngày 11 đến 19/2/1951 tại xã Vinh Quang (nay là Kim Bình), huyện Chiêm Hóa, tỉnh Tuyên Quang với 158 đại biểu chính thức và 53 đại biểu dự khuyết, đại diện hơn 766.000 đảng viên."
+    },
+    {
+      "id": 19,
+      "period_id": "1945-1954",
+      "is_core": true,
+      "question": "Tại Đại hội đại biểu toàn quốc lần thứ II (2/1951), Đảng ta quyết định ra hoạt động công khai ở Việt Nam với tên gọi mới là gì?",
+      "options": {
+        "A": "Đảng Cộng sản Đông Dương",
+        "B": "Đảng Lao động Việt Nam",
+        "C": "Đảng Cộng sản Việt Nam",
+        "D": "Mặt trận Việt Minh"
+      },
+      "correct_answer": "B",
+      "explanation": "Đại hội II quyết định mỗi nước Việt Nam, Lào và Campuchia có một đảng riêng; ở Việt Nam, Đảng ra hoạt động công khai với tên gọi Đảng Lao động Việt Nam và thông qua Chính cương Đảng Lao động Việt Nam."
+    },
+    {
+      "id": 20,
+      "period_id": "1945-1954",
+      "is_core": false,
+      "question": "Chiến dịch Điện Biên Phủ năm 1954 do Đại tướng Võ Nguyên Giáp làm Tư lệnh kiêm Bí thư Đảng ủy chiến dịch diễn ra trong bao nhiêu ngày đêm và kết thúc toàn thắng vào ngày nào?",
+      "options": {
+        "A": "60 ngày đêm, kết thúc ngày 19/12/1954",
+        "B": "12 ngày đêm, kết thúc ngày 29/12/1954",
+        "C": "56 ngày đêm, kết thúc chiều 7/5/1954",
+        "D": "56 ngày đêm, kết thúc ngày 21/7/1954"
+      },
+      "correct_answer": "C",
+      "explanation": "Mở màn ngày 13/3/1954, sau 56 ngày đêm với ba đợt tiến công lớn, chiều 7/5/1954 quân ta đánh chiếm hầm chỉ huy và bắt sống tướng Đờ Cátxtơri cùng Bộ Chỉ huy tập đoàn cứ điểm Điện Biên Phủ."
+    },
+    {
+      "id": 21,
+      "period_id": "1945-1954",
+      "is_core": true,
+      "question": "Chiến thắng Điện Biên Phủ (7/5/1954) đã tạo lợi thế quyết định buộc thực dân Pháp phải ký kết hiệp định nào ngày 21/7/1954 để đình chỉ chiến sự ở Việt Nam?",
+      "options": {
+        "A": "Hiệp định Paris",
+        "B": "Hiệp ước Patơnốt",
+        "C": "Hiệp định Genève",
+        "D": "Tuyên bố Đông Xuân"
+      },
+      "correct_answer": "C",
+      "explanation": "Ngày 8/5/1954 Hội nghị Genève bắt đầu bàn về Đông Dương (Phó Thủ tướng Phạm Văn Đồng làm Trưởng đoàn VNDCCH) và ngày 21/7/1954 hai bên ký Hiệp định đình chỉ chiến sự ở Việt Nam, kết thúc thắng lợi cuộc kháng chiến chống Pháp."
+    },
+    {
+      "id": 22,
+      "period_id": "1954-1975",
+      "is_core": true,
+      "question": "Tại Đại hội đại biểu toàn quốc lần thứ III (9/1960), Đảng xác định cách mạng xã hội chủ nghĩa ở miền Bắc giữ vai trò như thế nào đối với toàn bộ sự nghiệp cách mạng cả nước và thống nhất nước nhà?",
+      "options": {
+        "A": "Vai trò quyết định trực tiếp",
+        "B": "Vai trò quyết định nhất",
+        "C": "Vai trò phối hợp hỗ trợ",
+        "D": "Vai trò đấu tranh ngoại giao chủ đạo"
+      },
+      "correct_answer": "B",
+      "explanation": "Đại hội III (5–10/9/1960 tại Hà Nội) xác định cách mạng XHCN ở miền Bắc giữ vai trò quyết định nhất đối với sự phát triển của toàn bộ cách mạng Việt Nam và sự nghiệp thống nhất nước nhà."
+    },
+    {
+      "id": 23,
+      "period_id": "1954-1975",
+      "is_core": false,
+      "question": "Trong mối quan hệ biện chứng giữa hai chiến lược cách mạng do Đại hội III (1960) đề ra, cách mạng miền Nam giữ vai trò nào?",
+      "options": {
+        "A": "Vai trò quyết định trực tiếp đối với sự nghiệp giải phóng miền Nam khỏi ách thống trị của đế quốc Mỹ và tay sai",
+        "B": "Vai trò hậu phương lớn chi viện sức người, sức của cho cả nước",
+        "C": "Vai trò quyết định nhất đối với tiến trình quá độ lên CNXH",
+        "D": "Vai trò xây dựng nền tảng vật chất và cải tạo XHCN"
+      },
+      "correct_answer": "A",
+      "explanation": "Đại hội III phân định rõ: miền Bắc giữ vai trò quyết định nhất đối với toàn bộ sự nghiệp cách mạng cả nước, còn miền Nam giữ vai trò quyết định trực tiếp đối với sự nghiệp giải phóng miền Nam."
+    },
+    {
+      "id": 24,
+      "period_id": "1954-1975",
+      "is_core": false,
+      "question": "Chiến thắng \"Điện Biên Phủ trên không\" (12 ngày đêm từ 18/12 đến 29/12/1972) là thắng lợi của quân dân miền Bắc trong việc đánh bại cuộc tập kích chiến lược đường không bằng loại máy bay nào của Mỹ?",
+      "options": {
+        "A": "Máy bay trực thăng UH-1",
+        "B": "Máy bay tiêm kích F-5A",
+        "C": "Máy bay chiến lược B-52",
+        "D": "Máy bay vận tải quân sự"
+      },
+      "correct_answer": "C",
+      "explanation": "Cuối năm 1972, chính quyền Tổng thống Richard Nixon mở cuộc tập kích đường không quy mô lớn bằng máy bay B-52 đánh phá Hà Nội, Hải Phòng và miền Bắc, nhưng đã bị quân dân ta đánh bại hoàn toàn."
+    },
+    {
+      "id": 25,
+      "period_id": "1954-1975",
+      "is_core": true,
+      "question": "Theo Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam (27/01/1973), cam kết quân sự quan trọng nhất của Hoa Kỳ trong vòng 60 ngày là gì?",
+      "options": {
+        "A": "Chuyển giao toàn bộ căn cứ quân sự cho chính quyền miền Bắc",
+        "B": "Rút toàn bộ quân viễn chinh Mỹ và quân các nước chư hầu (đồng minh của Mỹ) ra khỏi miền Nam Việt Nam",
+        "C": "Tổ chức tổng tuyển cử thống nhất hai miền ngay trong năm 1973",
+        "D": "Dừng vĩnh viễn mọi hoạt động ngoại giao tại khu vực Đông Nam Á"
+      },
+      "correct_answer": "B",
+      "explanation": "Hiệp định Paris buộc Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân viễn chinh Mỹ cùng quân chư hầu khỏi miền Nam trong 60 ngày, hiện thực hóa mục tiêu \"Đánh cho Mỹ cút\"."
+    },
+    {
+      "id": 26,
+      "period_id": "1954-1975",
+      "is_core": true,
+      "question": "Sau hai thắng lợi bước ngoặt là Chiến dịch Tây Nguyên và Chiến dịch Huế – Đà Nẵng, chiến dịch quyết chiến chiến lược cuối cùng giải phóng hoàn toàn miền Nam năm 1975 mang tên gọi là gì?",
+      "options": {
+        "A": "Chiến dịch Biên giới",
+        "B": "Chiến dịch Đông Xuân",
+        "C": "Chiến dịch Hồ Chí Minh",
+        "D": "Chiến dịch Việt Bắc"
+      },
+      "correct_answer": "C",
+      "explanation": "Chiến dịch Hồ Chí Minh diễn ra từ ngày 26/04 đến 30/04/1975 là trận quyết chiến chiến lược cuối cùng giải phóng Sài Gòn – Gia Định và toàn bộ miền Nam."
+    },
+    {
+      "id": 27,
+      "period_id": "1954-1975",
+      "is_core": false,
+      "question": "Năm cánh quân chủ lực trong Chiến dịch Hồ Chí Minh đã tiến công theo phương châm nào và cắm cờ cách mạng trên nóc Dinh Độc Lập vào thời điểm nào ngày 30/04/1975?",
+      "options": {
+        "A": "\"Đánh chắc, tiến chắc\" – lúc 10 giờ 30 phút",
+        "B": "\"Thần tốc, táo bạo, bất ngờ, chắc thắng\" – lúc 11 giờ 30 phút",
+        "C": "\"Toàn dân, toàn diện, lâu dài\" – lúc 12 giờ 00 phút",
+        "D": "\"Chủ động, linh hoạt, kiên quyết\" – lúc 17 giờ 30 phút"
+      },
+      "correct_answer": "B",
+      "explanation": "Năm cánh quân chủ lực đồng loạt tiến công theo phương châm \"thần tốc, táo bạo, bất ngờ, chắc thắng\"; đúng 11 giờ 30 phút ngày 30/04/1975, cờ cách mạng tung bay trên nóc Dinh Độc Lập, Tổng thống Dương Văn Minh tuyên bố đầu hàng không điều kiện."
+    },
+    {
+      "id": 28,
+      "period_id": "1975-1986",
+      "is_core": false,
+      "question": "Để tiến tới hoàn thành thống nhất đất nước về mặt Nhà nước, cuộc Tổng tuyển cử bầu Quốc hội chung của nước Việt Nam thống nhất đã diễn ra vào ngày nào?",
+      "options": {
+        "A": "Ngày 30/4/1975",
+        "B": "Tháng 11/1975",
+        "C": "Ngày 25/4/1976",
+        "D": "Ngày 2/7/1976"
+      },
+      "correct_answer": "C",
+      "explanation": "Sau Hội nghị Hiệp thương chính trị hai miền (11/1975), cuộc Tổng tuyển cử bầu Quốc hội chung của cả nước được tổ chức vào ngày 25/4/1976."
+    },
+    {
+      "id": 29,
+      "period_id": "1975-1986",
+      "is_core": true,
+      "question": "Ngày 2/7/1976, tại Kỳ họp thứ nhất Quốc hội khóa VI (họp tại Hà Nội từ 24/6 đến 3/7/1976), Quốc hội đã quyết định đặt tên nước ta là gì?",
+      "options": {
+        "A": "Việt Nam Dân chủ Cộng hòa",
+        "B": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "C": "Liên bang Đông Dương",
+        "D": "Cộng hòa Nhân dân Việt Nam"
+      },
+      "correct_answer": "B",
+      "explanation": "Ngày 2/7/1976, Quốc hội khóa VI quyết định đặt tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam, đánh dấu mốc hoàn thành thống nhất đất nước về mặt Nhà nước."
+    },
+    {
+      "id": 30,
+      "period_id": "1975-1986",
+      "is_core": false,
+      "question": "Cùng với việc đặt tên nước, Kỳ họp thứ nhất Quốc hội khóa VI (1976) đã thông qua những quyết định quan trọng nào sau đây?",
+      "options": {
+        "A": "Chọn Thủ đô là Hà Nội, Quốc ca là bài Tiến quân ca, đặt tên thành phố Sài Gòn – Gia Định là Thành phố Hồ Chí Minh",
+        "B": "Đổi tên Đảng thành Đảng Lao động Việt Nam và thông qua Chính cương mới",
+        "C": "Ban hành Chỉ thị 100-CT/TW về khoán sản phẩm trong nông nghiệp",
+        "D": "Thông qua kế hoạch xóa bỏ cơ chế bao cấp về giá – lương – tiền"
+      },
+      "correct_answer": "A",
+      "explanation": "Kỳ họp thứ nhất Quốc hội khóa VI xác định Quốc kỳ (cờ đỏ sao vàng), Quốc huy, Thủ đô là Hà Nội, Quốc ca là bài Tiến quân ca và chính thức đặt tên Sài Gòn – Gia Định là Thành phố Hồ Chí Minh."
+    },
+    {
+      "id": 31,
+      "period_id": "1975-1986",
+      "is_core": true,
+      "question": "Chỉ thị 100-CT/TW (ban hành ngày 13/1/1981) của Ban Bí thư — thường gọi là Khoán 100 — đã tạo ra bước đột phá nào trong lĩnh vực nông nghiệp?",
+      "options": {
+        "A": "Tư hữu hóa toàn bộ ruộng đất và giải thể ngay mô hình hợp tác xã",
+        "B": "Mở rộng khoán sản phẩm đến nhóm lao động và người lao động trong hợp tác xã nông nghiệp, gắn trách nhiệm và quyền lợi trực tiếp với sản phẩm cuối cùng",
+        "C": "Chuyển toàn bộ nông nghiệp sang sản xuất công nghiệp nặng xuất khẩu",
+        "D": "Áp dụng chế độ cung cấp hiện vật theo giá thấp của Nhà nước cho nông dân"
+      },
+      "correct_answer": "B",
+      "explanation": "Chỉ thị 100-CT/TW chủ trương cải tiến công tác khoán và mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã, giúp thu nhập gắn rõ hơn với hiệu quả lao động (vượt mức khoán được hưởng thêm theo quy định)."
+    },
+    {
+      "id": 32,
+      "period_id": "1975-1986",
+      "is_core": false,
+      "question": "Nhận định nào sau đây là CHÍNH XÁC khi nói về phạm vi của Khoán 100 (1981) và sự phân biệt với Khoán 10?",
+      "options": {
+        "A": "Khoán 100 và Khoán 10 là hai tên gọi khác nhau của cùng một văn bản năm 1981",
+        "B": "Khoán 100 đã xóa bỏ hoàn toàn vai trò quản lý tư liệu sản xuất của hợp tác xã ngay trong năm 1981",
+        "C": "Khoán 100 vẫn thực hiện trong khuôn khổ hợp tác xã và là bước mở đường quan trọng trước Nghị quyết 10 (Khoán 10) của Bộ Chính trị ban hành ngày 5/4/1988",
+        "D": "Khoán 100 chỉ áp dụng thí điểm tại một tỉnh duy nhất ở miền Bắc"
+      },
+      "correct_answer": "C",
+      "explanation": "Khoán 100 (1981) vẫn nằm trong khuôn khổ hợp tác xã (HTX vẫn quản lý tư liệu sản xuất, kế hoạch và các khâu quan trọng) và khác với mốc Nghị quyết 10 của Bộ Chính trị ngày 5/4/1988."
+    },
+    {
+      "id": 33,
+      "period_id": "1975-1986",
+      "is_core": true,
+      "question": "Hội nghị Trung ương 8 khóa V (tháng 6/1985, Nghị quyết số 25-NQ/TW ngày 17/6/1985) chủ trương dứt khoát xóa bỏ cơ chế quản lý nào và chọn khâu đột phá là gì?",
+      "options": {
+        "A": "Xóa bỏ kinh tế tư nhân; chọn công nghiệp nặng làm khâu đột phá",
+        "B": "Xóa bỏ cơ chế tập trung quan liêu bao cấp, thực hiện hạch toán kinh tế và kinh doanh XHCN; chọn giá – lương – tiền làm nội dung đột phá",
+        "C": "Xóa bỏ hợp tác xã nông nghiệp; chọn xuất khẩu gạo làm khâu đột phá",
+        "D": "Xóa bỏ hệ thống ngân hàng nhà nước; chọn thu hút vốn nước ngoài làm khâu đột phá"
+      },
+      "correct_answer": "B",
+      "explanation": "Nghị quyết số 25-NQ/TW của Hội nghị Trung ương 8 khóa V (6/1985) chủ trương dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp, chuyển sang hạch toán kinh tế và kinh doanh XHCN với nội dung đột phá là giá – lương – tiền."
+    },
+    {
+      "id": 34,
+      "period_id": "1975-1986",
+      "is_core": false,
+      "question": "Đánh giá thực tế về cuộc tổng điều chỉnh giá – lương – tiền (tháng 9/1985) và giá trị lịch sử của Hội nghị Trung ương 8 khóa V là gì?",
+      "options": {
+        "A": "Cơ chế bao cấp được xóa bỏ hoàn toàn và lạm phát chấm dứt ngay trong năm 1985",
+        "B": "Triển khai gặp sai lầm, hạn chế khiến giá cả biến động mạnh và lạm phát gia tăng, nhưng tạo bước chuyển nhận thức quan trọng cho đường lối Đổi mới tại Đại hội VI (1986)",
+        "C": "Không gây ra biến động giá cả nhưng bị hủy bỏ trước khi áp dụng",
+        "D": "Khiến Đảng từ bỏ hoàn toàn việc thừa nhận sản xuất hàng hóa"
+      },
+      "correct_answer": "B",
+      "explanation": "Cần tách bạch chủ trương và thực hiện: dù triển khai tháng 9/1985 gặp sai lầm làm giá cả biến động mạnh và lạm phát tăng cao, hội nghị vẫn mang giá trị lịch sử lớn khi xác lập bước chuyển nhận thức phải thay đổi cơ chế quản lý."
+    },
+    {
+      "id": 35,
+      "period_id": "1986-nay",
+      "is_core": true,
+      "question": "Đại hội đại biểu toàn quốc lần thứ VI (12/1986) xác định trọng tâm của đường lối đổi mới kinh tế trong giai đoạn đầu là tập trung nguồn lực thực hiện 3 chương trình kinh tế lớn nào?",
+      "options": {
+        "A": "Công nghiệp nặng, giao thông vận tải, năng lượng",
+        "B": "Lương thực – thực phẩm, hàng tiêu dùng, hàng xuất khẩu",
+        "C": "Chuyển đổi số, kinh tế xanh, khoa học – công nghệ",
+        "D": "Nông nghiệp công nghệ cao, du lịch dịch vụ, công nghiệp nhẹ"
+      },
+      "correct_answer": "B",
+      "explanation": "Đại hội VI (12/1986) chủ trương đổi mới tư duy (trước hết là tư duy kinh tế), bố trí lại cơ cấu sản xuất và tập trung thực hiện 3 chương trình kinh tế lớn: lương thực – thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
+    },
+    {
+      "id": 36,
+      "period_id": "1986-nay",
+      "is_core": false,
+      "question": "Trong 3 chương trình kinh tế lớn của Đại hội VI (1986), chương trình nào được đặt ở vị trí ưu tiên hàng đầu nhằm chấm dứt tình trạng thiếu đói kéo dài?",
+      "options": {
+        "A": "Chương trình hàng tiêu dùng",
+        "B": "Chương trình hàng xuất khẩu",
+        "C": "Chương trình lương thực – thực phẩm",
+        "D": "Chương trình công nghiệp nặng"
+      },
+      "correct_answer": "C",
+      "explanation": "Chương trình lương thực – thực phẩm được đặt ở vị trí ưu tiên hàng đầu để đảm bảo nhu cầu cấp bách nhất của đời sống nhân dân, tiến tới có dự trữ quốc gia và giúp Việt Nam sau vài năm trở thành nước xuất khẩu gạo hàng đầu thế giới."
+    },
+    {
+      "id": 37,
+      "period_id": "1986-nay",
+      "is_core": true,
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Cương lĩnh năm 1991) được thông qua tại Đại hội VII (6/1991) đã nêu lên bao nhiêu đặc trưng cơ bản của xã hội XHCN ở Việt Nam?",
+      "options": {
+        "A": "4 đặc trưng",
+        "B": "6 đặc trưng",
+        "C": "8 đặc trưng",
+        "D": "10 đặc trưng"
+      },
+      "correct_answer": "B",
+      "explanation": "Cương lĩnh năm 1991 lần đầu tiên phác họa có hệ thống mô hình xã hội XHCN ở Việt Nam qua 6 đặc trưng cơ bản (sau này được bổ sung, phát triển thành 8 đặc trưng tại Cương lĩnh năm 2011)."
+    },
+    {
+      "id": 38,
+      "period_id": "1986-nay",
+      "is_core": false,
+      "question": "Theo Cương lĩnh năm 1991, đặc trưng về mặt văn hóa của xã hội xã hội chủ nghĩa ở Việt Nam được xác định như thế nào?",
+      "options": {
+        "A": "Nền văn hóa hội nhập hoàn toàn theo chuẩn mực công nghiệp hiện đại",
+        "B": "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+        "C": "Nền văn hóa tập trung kế hoạch hóa thống nhất",
+        "D": "Nền văn hóa xóa bỏ toàn bộ truyền thống cũ để tiếp thu cái mới"
+      },
+      "correct_answer": "B",
+      "explanation": "Một trong 6 đặc trưng cơ bản của Cương lĩnh năm 1991 về văn hóa là xây dựng nền văn hóa tiên tiến, đồng thời giữ gìn và phát huy đậm đà bản sắc dân tộc."
+    },
+    {
+      "id": 39,
+      "period_id": "1986-nay",
+      "is_core": false,
+      "question": "Theo lộ trình phát triển do Đại hội XIII của Đảng (2021) vạch ra, mục tiêu phát triển đất nước đến năm 2030 (kỷ niệm 100 năm thành lập Đảng) là gì?",
+      "options": {
+        "A": "Nước đang phát triển có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp",
+        "B": "Nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao",
+        "C": "Nước phát triển, thu nhập cao theo định hướng xã hội chủ nghĩa",
+        "D": "Nước nông nghiệp hiện đại, tự chủ hoàn toàn về lương thực"
+      },
+      "correct_answer": "B",
+      "explanation": "Đại hội XIII đặt lộ trình 3 chặng: năm 2025 (công nghiệp theo hướng hiện đại, vượt qua thu nhập trung bình thấp), năm 2030 (công nghiệp hiện đại, thu nhập trung bình cao) và năm 2045 (nước phát triển, thu nhập cao)."
+    },
+    {
+      "id": 40,
+      "period_id": "1986-nay",
+      "is_core": true,
+      "question": "Tại Đại hội đại biểu toàn quốc lần thứ XIII (25/1 – 1/2/2021), mục tiêu chiến lược phát triển đất nước đến năm 2045 (kỷ niệm 100 năm thành lập nước) được xác định là gì?",
+      "options": {
+        "A": "Vượt qua khủng hoảng kinh tế – xã hội và kiềm chế lạm phát",
+        "B": "Hoàn thành công nghiệp hóa ở mức thu nhập trung bình",
+        "C": "Trở thành nước phát triển, thu nhập cao theo định hướng xã hội chủ nghĩa",
+        "D": "Đứng đầu khu vực về sản lượng lương thực và hàng tiêu dùng"
+      },
+      "correct_answer": "C",
+      "explanation": "Đại hội XIII xác định mục tiêu tầm nhìn thế kỷ đến năm 2045 (kỷ niệm 100 năm thành lập nước) là đưa Việt Nam trở thành nước phát triển, thu nhập cao theo định hướng xã hội chủ nghĩa, dựa trên các động lực mới như chuyển đổi số, đổi mới sáng tạo, khoa học – công nghệ và kinh tế xanh."
+    }
+  ]
+}
