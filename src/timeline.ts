@@ -1,6 +1,7 @@
 import source from './data/noi_dung_lsd.md?raw'
 
-const chapters = source.split(/^## GIAI ĐOẠN \d[^\n]*\n/gm).slice(1)
+const normalizedSource = source.replace(/\r\n/g, '\n')
+const chapters = normalizedSource.split(/^## GIAI ĐOẠN \d[^\n]*\n/gm).slice(1)
 const names = [
   'Sự ra đời của Đảng và lãnh đạo giành chính quyền',
   'Bảo vệ chính quyền và kháng chiến chống Pháp',
@@ -55,13 +56,16 @@ const sections = chapters.map(chapter => Array.from(
 const [strategicShift, preparation, uprising] = sections[0][5].body.split(
   /(?=^\* \*\*Chuẩn bị lực lượng vũ trang|^\* \*\*Cao trào kháng Nhật)/m,
 )
-const firstPeriodBodies = [sections[0][2].body, strategicShift.trim(), uprising.trim()]
+const firstPeriodBodies = [
+  sections[0][2].body,
+  [strategicShift.trim(), preparation.trim()].join('\n\n'),
+  uprising.trim(),
+]
 const backgroundSections = [sections[0][0], sections[0][1], sections[0][3], sections[0][4]]
 
-export const context = [
-  ...backgroundSections.map(({ title, body }) => '#### ' + title + '\n\n' + body),
-  preparation.trim(),
-].join('\n\n')
+export const context = backgroundSections
+  .map(({ title, body }) => '#### ' + title + '\n\n' + body)
+  .join('\n\n')
 
 const outlook = '**Tiếp nối thực tiễn hiện nay:** *Trên nền tảng tổng kết 40 năm Đổi mới (1986 – 2026), toàn Đảng và toàn dân tiếp tục đẩy mạnh hiện thực hóa các mục tiêu phát triển giai đoạn 2025 – 2030, tập trung vào chuyển đổi số, đổi mới sáng tạo, khoa học – công nghệ, kinh tế xanh và hoàn thiện thể chế nhằm tạo đà vững chắc hướng tới tầm nhìn năm 2045.*'
 const finalPeriodBodies = sections[4].map(({body}, index) =>
@@ -83,4 +87,4 @@ export const timeline = headings.map((events, period) => ({
   })),
 }))
 
-export const references = source.split(/^## TÀI LIỆU THAM KHẢO[^\n]*\n/m)[1]
+export const references = normalizedSource.split(/^## TÀI LIỆU THAM KHẢO[^\n]*\n/m)[1]
